@@ -75,7 +75,7 @@ realtime-trade-suite/
 ├── feed-stress-tester/
 ├── docker-compose.yml
 ├── .env
-└── README.md  ← You're here
+└── README.md 
 ✅ Project Status
 Project	Status
 Token Feed API	✅ Complete
@@ -90,3 +90,4 @@ Set environment variables via .env in root. Redis, API keys, Mongo, etc. are sha
 
 🧭 License
 MIT License. Built for professional interviews, Web3 backend demos, and fast prototyping.
+
