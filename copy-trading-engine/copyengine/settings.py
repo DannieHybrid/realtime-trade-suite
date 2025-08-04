@@ -19,7 +19,8 @@ INSTALLED_APPS = [
 
     # ✅ Third-party and local apps
     'rest_framework',
-    'copier',  # our custom app
+    'copier',
+    'insights',  # ✅ Newly added app
 ]
 
 MIDDLEWARE = [
